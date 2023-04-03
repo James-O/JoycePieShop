@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  margin-top:0px;
+  padding-bottom:20px;
+  background-image:url('../images/images7.jpg');
+  background-repeat: no-repeat;
+  background-size: 250%;
+}
+body-content{
+    padding-left: 15px;
+    padding-right:15px;
+}
